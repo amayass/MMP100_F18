@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Help Your Education</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="main.css">
+
+</head>
+<body>
+
+	<nav>
+		<ul>
+			<li><a href="index.html">home</a></li>
+			<li><a href="struggles.html">struggles of students</a></li>
+			<li><a href="Recources.html">Recources</a></li>
+		</ul>
+	</nav>
+
+<h1>Student Help</h1>
+<p>These are some sights that can help studetns with their sucess
+Khan University for online tutoring vidoes
+Capella.Edu to find counslog servies at colleges
+CareerOne stop to help students asset their skills to find their career path.
+Also you can visit your schools student recourses offices for recourses to help out.
+
+</p>
+
+</body>
+
+</html>
